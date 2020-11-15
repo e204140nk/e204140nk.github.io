@@ -1,0 +1,30 @@
+h1{
+    color:blue;
+    font-size:50px;
+    font-weight: bold;
+    font-family: "Inpact";
+    text-align:center;
+    background-color: yellow;
+}
+
+h2{
+    color:blue;
+    font-size:20px;
+    font-weight: bold;
+    font-family: "Inpact";
+    text-align:center;
+    background-color: yellow;
+}
+
+
+body{
+    background-image: url(../images/06.jpg);
+    background-repeat: repeat-y;
+    background-attachment: fixed;   
+    
+}
+
+ol{
+    
+    background-image: url(../images/07.jpg);
+}
