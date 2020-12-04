@@ -1,0 +1,38 @@
+h1#Title1{
+    font-family: impact;
+    font-size: 30px;
+    text-align:center;
+    color: orange;
+    background-color: yellow;
+}
+
+h1#rink{
+    font-family: impact;
+    font-size: 30px;
+    text-align:center;
+    color: aqua;
+    background-color: pink;
+}
+
+
+h2#white{
+    font-family: impact;
+    font-size: 20px;
+    text-align:center;
+    color: white;
+    background-color: skyblue;
+}
+
+
+h2#blue{
+    font-family: impact;
+    font-size: 20px;
+    text-align:center;
+    color: blue;
+    background-color: yellow;
+}
+
+body{
+    background-color: antiquewhite
+}
+
