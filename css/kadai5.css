@@ -1,0 +1,62 @@
+div.title{
+    width:1000px;
+    height: 40px;
+    background-color: aquamarine;
+    font-size:30px;
+    font-family: "Impact";
+    text-align:left;
+    margin-bottom:20px;
+}
+
+
+div.menu{
+    display: inline-block;   
+    vertical-align: top;
+    background-color:coral;    
+    width: 250px;           
+    height: 300px;  
+    font-size:20px;
+    margin-top:20px;
+}
+
+div.menutitle{
+    display:inline-block;
+    background-color: antiquewhite;
+    width:250px;
+    height: 100px;
+    margin-top:10px;
+}
+
+
+
+div.article{
+    display:inline-block;
+    width:600px;
+    height: 300px;
+    background-color: coral;
+    font-size:15px;   
+    text-align:center;
+    margin-top:20px;
+    margin-left:50px;
+    margin-right:50px;
+}
+
+div.gazo{
+    background-color: cadetblue;
+    width:700px;
+    height:300px;
+    text-align:center;
+    font-size:50px;
+}
+
+.bunsho{
+    text-align:center;
+}
+
+div.footer{
+    width:1000px;
+    height:20px;
+    font-size: 15px;
+    text-align:right;
+    margin-top:20px;
+}
